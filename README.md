@@ -5,6 +5,7 @@ Repository with various computation notebooks producded in the context of the OE
 - [FAIRCheck: Lightweight Validator for Zenodo, GitHub, and Zotero](OEMC_FAIRCheck_v1.ipynb)
 - [Accesing in-situ data via STAC](OEMC_in-situ.ipynb)
 - [Geo-AutoML with Scikit-map for FAPAR modeling and prediction](OEMC_Geo_Automl_scikit_map.ipynb)
+- [Regional calibration of Gross Primary Productivity](OEMC_GPP_tutorial.ipynb)
 
 ## License
 
