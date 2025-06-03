@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "automl-utils"
+version = "0.0.1"
+description = "utils for aiding in specific AutoML tasks specifically tailored towards GeoAML"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["numpy", "pandas"]
+
+[project.urls]
+Homepage = "https://github.com/Open-Earth-Monitor/showcase"
+
+[tool.setuptools]
+py-modules = ["automl_utils"]
