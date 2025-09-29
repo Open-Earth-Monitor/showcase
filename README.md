@@ -2,7 +2,7 @@
 
 Repository with various computation notebooks producded in the context of the OEMC project:
 
-- [Accessing 30-m global-scale historical Landsat cloud-free time-series (1997—2024+) in Copernicus Data Space Ecosystem (CDSE)](OEMC_CDSE_landsat.ipynb)
+- [Accessing 30-m global-scale historical Landsat cloud-free time-series (1997—2024+) in Copernicus Data Space Ecosystem (CDSE)](OEMC_CDSE_landsat.md)
 - [FAIRCheck: Lightweight Validator for Zenodo, GitHub, and Zotero](OEMC_FAIRCheck_v1.ipynb)
 - [Accesing in-situ data via STAC](OEMC_in-situ.ipynb)
 - [Geo-AutoML with Scikit-map for FAPAR modeling and prediction](OEMC_Geo_Automl_scikit_map.ipynb)
